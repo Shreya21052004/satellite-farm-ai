@@ -1,0 +1,13 @@
+streamlit
+numpy
+matplotlib
+scikit-learn
+folium
+streamlit-folium
+shapely
+Pillow
+sentinelhub
+requests
+llama-index
+chromadb
+groq

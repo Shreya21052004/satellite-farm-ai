@@ -1,0 +1,4 @@
+import os
+
+CLIENT_ID = os.getenv("SENTINEL_CLIENT_ID")
+CLIENT_SECRET = os.getenv("SENTINEL_CLIENT_SECRET")
